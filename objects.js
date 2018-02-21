@@ -1,4 +1,4 @@
-var playlist = {oasis: 'Live Forever'};
+var playlist = { oasis: 'Live Forever' };
 
 function updatePlaylist(playlist, artistName, songTitle)
 {
